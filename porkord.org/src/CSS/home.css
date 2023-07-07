@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Commissioner&display=swap');
+
+.title {
+    font-size: 10vw;
+    font-weight: bold;
+    font-family: Commissioner, sans-serif;
+    color: #000;
+    text-align: center;
+}

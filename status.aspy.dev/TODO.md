@@ -1,0 +1,6 @@
+-   CronTab checks every 2 minutes
+-   Easy to edit file to change which domains are checked
+-   SolidJS Based Web UI via API
+-   API to request uptime / other things
+-   Store last 90 days of uptime
+-   YAML / JSON based config / TOML would be fucking cool

@@ -1,0 +1,18 @@
+{
+	"type": "module",
+	"dependencies": {
+		"@discordjs/builders": "^0.11.0",
+		"@discordjs/rest": "^0.3.0",
+		"discord-api-types": "^0.26.1",
+		"discord.js": "^13.6.0",
+		"dotenv": "^14.2.0",
+		"fs": "^0.0.1-security"
+	},
+	"scripts": {
+		"start": "rimraf dist && tsc && cd dist && node index.js",
+		"compile": "rimraf dist && tsc"
+	},
+	"devDependencies": {
+		"rimraf": "^3.0.2"
+	}
+}

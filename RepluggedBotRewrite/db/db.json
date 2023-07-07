@@ -1,0 +1,25 @@
+{
+    "devGuild": "774050236376285224",
+    "status": "online",
+    "statusText": "I am a bot, and this is my status.",
+    "defaultPrefix": "?",
+    "botID": "1052654190343770232",
+    "servers": {
+        "774050236376285224": {
+            "prefix": "?"
+        },
+        "replyTo": {
+            "mod help": "Go to <#966014467538305034> to report a user. For anything else, go to <#1043020008994906185>. Management team will assist you shortly.",
+            "I see you": "<:DD_CyaneaLooksIntoYourSoul:1043232663672209418>",
+            "I'm new here": "Welcome to my server.",
+            "Im new here": "Welcome to my server.",
+            "nsfw": "Keep things **__SAFE FOR WORK__** or I will either ban and/or mute someone.",
+            "Gravity Rush": "Best game ever. I mean, it's a series I've appeared on. I'm real like you all.",
+            "Douse Shinundakara": "https://youtu.be/oWrKHWpLn0U"
+        },
+        "reactTo": {
+            "react": "1041913151647649865",
+            "ideot": "<a:DD_LainDream:1044461086251946025>"
+        }
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "WifiSSID": "FBI Surveillance Van",
+    "WifiSecurity": "WPA2",
+    "WifiPassword": "CorrectHorseBatteryStaple",
+    "Enroll": true,
+    "EnrollmentAccount": "enrollment@organization.com",
+    "EnrollmentPassword": "CorrectHorseBatteryStaple"
+}
