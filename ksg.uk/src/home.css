@@ -1,0 +1,16 @@
+html {
+    width: 110vw;
+    background-color: black;
+    overflow:hidden;
+}
+
+video {
+    z-index: -1;
+    filter:blur(4px);
+    left: 0%;
+    padding: 0;
+    object-fit:cover;
+    margin-top: -5vh;
+    margin-left: -.5vw;
+
+}
