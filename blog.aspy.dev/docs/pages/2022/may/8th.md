@@ -1,0 +1,10 @@
+<!--
+ Copyright (c) 2022 Aiden Baker
+
+ This software is released under the MIT License.
+ https://opensource.org/licenses/MIT
+-->
+
+# My Plans for a new laptop
+
+For a month or so I've been thinking about getting a new laptop. Originally, the plan was to save around $7k for a [ThinkPad P15](https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadp/thinkpad-p15-gen-2-(15-inch-intel)/wmd00000487) with maxed out specs. (Probably an i9, 64GB RAM, and a Quadro, similar to the one my college gave me.) However, after putting more thought into it, I may instead get a laptop for around $2k, as its far more feasible and just makes more sense.

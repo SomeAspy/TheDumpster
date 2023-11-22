@@ -1,0 +1,14 @@
+<!--
+ Copyright (c) 2022 Aiden Baker
+
+ This software is released under the MIT License.
+ https://opensource.org/licenses/MIT
+-->
+-   [Home](/)
+-   [2022](/pages/2022/_sidebar.md)
+    -   [April](/pages/2022/april/_sidebar.md)
+        -   [3rd](/pages/2022/april/3rd.md "April 3rd")
+        -   [7th](/pages/2022/april/7th.md "April 7th")
+        -   [14th](/pages/2022/april/14th.md "April 14th")
+        -   [15th](/pages/2022/april/15th.md "April 15th")
+        -   [21st](/pages/2022/april/21st.md "April 21st")
