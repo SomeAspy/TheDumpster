@@ -1,9 +1,3 @@
-<!--
- Copyright (c) 2022 Aiden Baker
-
- This software is released under the MIT License.
- https://opensource.org/licenses/MIT
--->
 # Making DuckDuckNo in Solid.JS
 
 Making [DuckDuckNo](https://duckduckno.com) in solid was quite challenging. it pushed my skills a bit, which made for a lot of fun. It uses the google search api because to duckduckgo api is garbage, and offers only the "instance answers api" which seems to made more for voice assistants, useless in this case. since I had to switch to google, I had to start using an API key, which meant I needed a backend to conceal the api key. [hence, The backend repo](https://github.com/SomeAspy/DuckDuckNoBackend) which simply acts as a middleman, making results from the google custom search api easier to use, and removing unneeded parts (they may be added in the future when I feel like it.) Its all for jokes of course, im just surprised I was able to get duckduckno.com

@@ -1,10 +1,3 @@
-<!--
- Copyright (c) 2022 Aiden Baker
-
- This software is released under the MIT License.
- https://opensource.org/licenses/MIT
--->
-
 # First Entry!
 
 Today is April 3rd. I am setting up this blog to keep a log of some cool things I do I guess- well not really cool but IDK.
